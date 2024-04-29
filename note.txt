@@ -1,0 +1,10 @@
+HTTP SERVER
+HTTP server adalah perangkat lunak atau layanan yang menjalankan protokol HTTP (Hypertext Transfer Protocol)
+http server harus memberikan request baru mendapatkan response
+web socket akan memberikan response tanpa memberikan request
+
+HTTP server ada 3 komponen 
+1. request url
+2. request method
+3. request header
+4. request body (untuk PUT dan POST)
